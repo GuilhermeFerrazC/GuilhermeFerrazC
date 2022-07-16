@@ -4,11 +4,12 @@
 
 
 <div align="center">
-  <a href="https://github.com/GuilhermeFerrazC">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerrazC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerrazC&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/GuilhermeFerrazC">  
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerrazC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerrazC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  
 ##
 
 <div>
